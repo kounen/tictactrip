@@ -9,8 +9,6 @@ tqdm.pandas()
 # Read CSV files into dataframes
 tickets_df = pd.read_csv('ticket_data.csv')
 cities_df = pd.read_csv('cities.csv')
-stations_df = pd.read_csv('stations.csv')
-providers_df = pd.read_csv('providers.csv')
 
 # Compute travel duration
 def get_duration(departure_ts: str, arrival_ts: str):

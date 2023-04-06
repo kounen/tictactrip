@@ -3,3 +3,4 @@ providers.csv
 stations.csv
 ticket_data.csv
 travels.csv
+.env

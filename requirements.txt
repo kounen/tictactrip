@@ -1,0 +1,18 @@
+# Requirements without version specifiers
+# If the version is omitted, the latest version is installed
+
+# Requests allow us to send HTTP/1.1 requests extremely easily
+# https://requests.readthedocs.io/en/latest/
+requests
+
+# Open source data analysis and manipulation tool
+# https://pandas.pydata.org/
+pandas
+
+# Allow us to implement easily a smart progress meter
+# https://tqdm.github.io/
+tqdm
+
+# Read key-value pairs from a .env file
+# https://github.com/theskumar/python-dotenv
+dotenv
