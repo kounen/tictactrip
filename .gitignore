@@ -4,3 +4,6 @@ stations.csv
 ticket_data.csv
 travels.csv
 .env
+__pycache__
+distances.csv
+*.png

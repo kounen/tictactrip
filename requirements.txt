@@ -16,3 +16,11 @@ tqdm
 # Read key-value pairs from a .env file
 # https://github.com/theskumar/python-dotenv
 dotenv
+
+# Python client for several popular geocoding web services
+# https://github.com/geopy/geopy
+geopy
+
+# Library to create static, animated, and interactive visualizations in Python
+# https://matplotlib.org/
+matplotlib
