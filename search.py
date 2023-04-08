@@ -28,7 +28,7 @@ countries.sort()
 # Then, remove 'UK' in the list
 countries.remove('UK')
 # And replace every occurences of 'UK' by 'United Kingdom' in our dataframe
-# => line 56
+# => line 58
 
 def is_valid_country(arg: str):
     country = str(arg)
