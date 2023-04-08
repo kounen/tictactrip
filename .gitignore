@@ -1,9 +1,4 @@
-cities.csv
-providers.csv
-stations.csv
-ticket_data.csv
-travels.csv
+*.csv
 .env
 __pycache__
-distances.csv
 *.png
